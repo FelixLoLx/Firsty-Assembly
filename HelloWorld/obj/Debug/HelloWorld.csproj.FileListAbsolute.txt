@@ -1,0 +1,10 @@
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\LeagueSharp.Common.dll
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\LeagueSharp.dll
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\SharpDX.dll
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\LeagueSharp.xml
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\mert\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
